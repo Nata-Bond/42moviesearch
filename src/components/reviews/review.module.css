@@ -1,0 +1,9 @@
+.text {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.reviews {
+  list-style: none;
+  padding-left: 0px;
+}

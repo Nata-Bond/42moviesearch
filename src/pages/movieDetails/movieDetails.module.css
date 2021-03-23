@@ -1,0 +1,21 @@
+.section {
+  margin-left: 60px;
+}
+
+.img {
+  width: 300px;
+}
+
+.general {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.overview {
+  width: 600px;
+  margin-left: 20px;
+}
+
+.details {
+  width: 900px;
+}

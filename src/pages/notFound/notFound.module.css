@@ -1,0 +1,11 @@
+.section {
+  margin: 0 auto;
+  width: 550px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.img {
+  width: 500px;
+}
