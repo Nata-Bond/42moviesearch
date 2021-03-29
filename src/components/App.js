@@ -23,7 +23,7 @@ export default class App extends Component {
     return (
       <>
         <Navigation />
-        <Suspense>
+        <Suspense fallback="Loading...">
           <Switch>
             <Route exact path={routes.home} component={Home}></Route>
             <Route exact path={routes.movies} component={Movies}></Route>
